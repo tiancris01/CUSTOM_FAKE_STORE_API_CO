@@ -4,7 +4,7 @@ This repository contains a Flutter package that interacts with the Fake Store AP
 
   > This plugin is in Beta. Use it with caution
 
-![loading](./assets/images/Screenshot_1721317660.png) ![loaded](./assets/images/Screenshot_1721317664.png)
+![loading](./assets/images/Screenshot_1721317660.png)   ![loaded](./assets/images/Screenshot_1721317664.png)
 
 ## Features
 
