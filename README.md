@@ -2,9 +2,9 @@
 
 This repository contains a Flutter package that interacts with the Fake Store API, providing data models, error handling, and examples of how to use it in a Flutter application using clean architecture.
 
-  > This plugin is in Beta. Use it with caution
+> This plugin is in Beta. Use it with caution
 
-![loading](./assets/images/Screenshot_1721317660.png)   ![loaded](./assets/images/Screenshot_1721317664.png)
+![loading](./assets/images/Screenshot_1721317660.png) ![loaded](./assets/images/Screenshot_1721317664.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ dependencies:
 
 Then run
 
-``` bash
+```bash
 flutter pub get
 ```
 
@@ -86,6 +86,7 @@ If you would like to contribute code, you can follow these steps:
 Please make sure to follow the code style and conventions used in the project. Also, don't forget to write tests for your changes and ensure that all existing tests pass.
 
 We appreciate your contributions and look forward to your pull requests!
+
 ## License
 
 The `custom_fake_store_api_co` package is released under the MIT License. See the [LICENSE](https://github.com/tiancris01/CUSTOM_FAKE_STORE_API_CO/blob/main/LICENSE) file for more details.
