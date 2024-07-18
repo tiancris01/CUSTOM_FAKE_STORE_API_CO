@@ -1,7 +1,7 @@
 name: custom_fake_store_api_co
 description: This is a custom fake store api project.
 version: 0.0.1
-homepage: https://example.com
+homepage: https://github.com/tiancris01
 
 environment:
   sdk: ">=3.3.4 <4.0.0"
