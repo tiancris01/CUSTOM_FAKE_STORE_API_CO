@@ -1,6 +1,6 @@
-// This is the model class for the product data. It contains
-//the properties of the product data and a factory method to
-//convert the JSON data to the model class.
+//// This is the model class for the product data. It contains
+///the properties of the product data and a factory method to
+///convert the JSON data to the model class.
 class ProductModel {
   final int id;
   final String title;
@@ -18,7 +18,7 @@ class ProductModel {
     required this.category,
   });
 
-  // This is a factory method that converts the JSON data to the model class.
+  /// This is a factory method that converts the JSON data to the model class.
   factory ProductModel.fromJson(Map<String, dynamic> json) {
     return ProductModel(
       id: json['id'],
@@ -30,7 +30,7 @@ class ProductModel {
     );
   }
 
-  // This method is used to compare two objects of the model class.
+  /// This method is used to compare two objects of the model class.
   @override
   bool operator ==(covariant ProductModel other) {
     if (identical(this, other)) return true;
@@ -43,7 +43,7 @@ class ProductModel {
         other.category == category;
   }
 
-  // This method is used to generate a hash code for the object.
+  /// This method is used to generate a hash code for the object.
   @override
   int get hashCode {
     return id.hashCode ^
